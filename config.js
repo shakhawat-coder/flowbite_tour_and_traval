@@ -12,6 +12,7 @@ tailwind.config = {
           backgroundImage: {
             'bannerbg': "url('./images/banner.jpg')",
             'findtourbg': "url('./images/findtourbg.jpg')",
+            'dealbg': "url('./images/dealbg.jpg')",
           },
           fontFamily: {
             nunito: "'Nunito', sans-serif;",
