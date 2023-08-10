@@ -3,6 +3,7 @@ tailwind.config = {
       extend: {
         colors: {
             navbg:'rgba(0,0,0,.4)',
+            phnnavbg:'rgba(0,0,0,.8)',
             bnnercolor:'rgba(67,142,222,.5)',
             graytext:'#5f5f5f'
         },
